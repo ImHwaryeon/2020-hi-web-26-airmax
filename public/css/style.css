@@ -102,7 +102,7 @@ header {
 }
 .gnb em{
     display: inline-block;
-    transform: skewX(40deg); !important
+    transform: skewX(40deg) !important;
 }
 .gnb em i{
     margin-right: 20px;
